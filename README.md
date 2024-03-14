@@ -17,7 +17,8 @@ Analysis of financial indicators by groups of indicators with forecasting
 ![Кейс #5_](https://github.com/ElenaTratsevskaya/DA-Power-BI-project_Financial-analysis-with-forecast-construction-/assets/110056199/3fc621ff-62c4-4692-b634-0e766a121454)
 </br></br>
 
-![Кейс #5_2](https://github.com/ElenaTratsevskaya/DA-Power-BI-project_Financial-analysis-with-forecast-construction-/assets/110056199/7c186d6e-1bab-4ee9-a130-251284320065)
+
+![Кейс #5_2](https://github.com/ElenaTratsevskaya/DA-Power-BI-project_Financial-analysis-with-forecast-construction-/assets/110056199/79930d4d-5bed-426e-bbf6-5c232aebb5b4)
 </br></br>
 **ВЫВОДЫ**</br>
 Характер кривой в предстоящие 6 месяцев сохранится и в целом соответствует ниспадающей линии тренда.</br>
